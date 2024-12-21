@@ -8,6 +8,8 @@ This project introduces a blockchain-based platform that incentivizes users to c
 
 ## Contract Address
 0x8419527eE3b2D43961E6C7780b8fD062DA400946
+![image](https://github.com/user-attachments/assets/79a4596f-18f6-4b85-8553-971ad39d4ce3)
+
 
 ## Project Vision
 To revolutionize education by integrating blockchain technology, offering learners not just knowledge but also unique digital assets (NFTs) as verifiable achievements. The project aims to encourage skill acquisition, ensure secure credentialing, and create a vibrant ecosystem of educational accomplishments.
